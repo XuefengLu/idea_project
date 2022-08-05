@@ -2,3 +2,4 @@
 class Test(object):
     def c(self):
         return None
+
