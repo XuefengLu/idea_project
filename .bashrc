@@ -1,1 +1,1 @@
-alias git-log=git log --graph --pretty=oneline --abbrev-commit
+alias git-log='git log --graph --pretty=oneline --abbrev-commit'
